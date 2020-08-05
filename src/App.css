@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+@font-face { font-family: pacifico;
+  src: url('fonts/Pacifico-Regular.ttf'); }
+
+h1 {
+  font-family: pacifico;
+  font-size: 72px;
+  color: cadetblue;
+
+}
+
+
