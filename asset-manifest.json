@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/courses/static/css/main.964e1dcf.chunk.css",
+    "main.js": "/courses/static/js/main.048894ea.chunk.js",
+    "main.js.map": "/courses/static/js/main.048894ea.chunk.js.map",
+    "runtime-main.js": "/courses/static/js/runtime-main.8d00cf69.js",
+    "runtime-main.js.map": "/courses/static/js/runtime-main.8d00cf69.js.map",
+    "static/js/2.94cca514.chunk.js": "/courses/static/js/2.94cca514.chunk.js",
+    "static/js/2.94cca514.chunk.js.map": "/courses/static/js/2.94cca514.chunk.js.map",
+    "index.html": "/courses/index.html",
+    "precache-manifest.4eb15cee9625300160c157606626c40e.js": "/courses/precache-manifest.4eb15cee9625300160c157606626c40e.js",
+    "service-worker.js": "/courses/service-worker.js",
+    "static/css/main.964e1dcf.chunk.css.map": "/courses/static/css/main.964e1dcf.chunk.css.map",
+    "static/js/2.94cca514.chunk.js.LICENSE.txt": "/courses/static/js/2.94cca514.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/courses/static/media/Pacifico-Regular.9b94499c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d00cf69.js",
+    "static/js/2.94cca514.chunk.js",
+    "static/css/main.964e1dcf.chunk.css",
+    "static/js/main.048894ea.chunk.js"
+  ]
+}
